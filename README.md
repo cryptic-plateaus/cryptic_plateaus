@@ -1,4 +1,17 @@
-### Hi there 👋
+<h2>✨🔥Mase Santos🔥✨</h2>
+<h4>Software Engineer | Shapeshifting Creative | She, her</h4>
+
+- 🔥 I’m currently working on my solo project for Prime Digital Academy: **WeCreate MN**
+- 💖 I’m passionate about blending creative solutions with my tech practice
+- 🌱 I’m currently practicing **React** and will start **Python** soon!
+<br/>
+<p><img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" width="20" height="20"/></p><p align="center">
+</p>
+
+<h4> You can find me here:
+ <a href="https://dev.to/masesantos" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="masesantos" height="20" width="20" /></a>
+<a href="https://linkedin.com/in/masesantos" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="masesantos" height="20" width="20" /></a>
+ </h4>
 
 <!--
 **MaseSantos/MaseSantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
