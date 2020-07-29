@@ -1,4 +1,4 @@
-<h2>✨🔥Mase Santos🔥✨</h2>
+<h2>✨🔥  Mase Santos  🔥✨</h2>
 <h4>Software Engineer | Shapeshifting Creative | She, her</h4>
 
 - 🔥 I’m currently working on my solo project for Prime Digital Academy: **WeCreate MN**
