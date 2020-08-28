@@ -1,5 +1,5 @@
 <h2>✨🔥  Mase Santos  🔥✨</h2>
-<h4>Software Engineer | Shapeshifting Creative | She, her</h4>
+<h4>Software Engineer | Shapeshifting Creative | She/her</h4>
 
 I'm a software engineer and creative from Minnesota. Passionate about learning new technologies and using code to realize inclusive futures. Driven by interdisciplinary practices and cross-cultural storytelling, I bring a strategic approach to both development and creative projects.
 
