@@ -3,8 +3,8 @@
 
 I'm a software engineer and creative from Minnesota. Passionate about learning new technologies and using code to realize inclusive futures. Driven by interdisciplinary practices and cross-cultural storytelling, I bring a strategic approach to both development and creative projects.
 
-- 🔥 I'm starting my client-based group project with **Realm Unlimited**
-- ✨ I just wrapped up my solo project for Prime Digital Academy: **WeCreate MN**
+- 🔥 I'm wrapping up my client-based group project with **Realm Unlimited**
+- ✨ I've begun a new round of improvements for my initiative **WeCreate MN** with **Ashley Koudou**
 - 💖 I’m passionate about blending **creative solutions** with my **tech practice**
 - 🌱 I’m currently diving deeper **React** and have begun learning **Python**!
 <br/>
