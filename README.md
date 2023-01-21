@@ -1,7 +1,7 @@
 <h2>✨🔥  Mase Santos  🔥✨</h2>
-<h4>Software Engineer | Shapeshifting Creative | She/They</h4>
+<h4>Software Engineer | Shapeshifting Creative | They/Them</h4>
 
-I'm a software engineer and creative from Minnesota. Passionate about learning new technologies and using code to realize inclusive futures. Driven by interdisciplinary practices and cross-cultural storytelling, I bring a strategic approach to both development and creative projects.
+I'm a software engineer and creative. Passionate about learning new technologies and using code to realize inclusive futures. Driven by interdisciplinary practices and cross-cultural storytelling, I bring a strategic approach to both development and creative projects.
 
 <!--
 **MaseSantos/MaseSantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
