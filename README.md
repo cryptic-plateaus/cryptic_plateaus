@@ -1,7 +1,6 @@
 <h1 align="center">✨🔥 Mase Santos 🔥✨</h1>
 
-<h3 align="center">Software Engineer | Shapeshifting Creative | They/Them <a href="https://linkedin.com/in/https://www.linkedin.com/in/mase-santos/" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mase-santos/" height="20" width="0" /></a></h3>
-<br>
+<h3 align="center">Software Engineer | Shapeshifting Creative | They/Them <a href="https://linkedin.com/in/https://www.linkedin.com/in/mase-santos/" target="blank"><img align="left" 
 <div align="center"><p><img src="https://spotify-recently-played-readme.vercel.app/api?user=masesann&count=1" alt="masesantos" /></p></div>
 <br>
 <h3 align="left">🛠 Language and Tools</h3>
