@@ -1,6 +1,6 @@
 <h1 align="center">✨🔥🔥✨</h1>
 
-<h3 align="center">Software Engineer | Shapeshifting Creative | They/Them target="blank"><img align="left" 
+<h3 align="center">Software Engineer | Shapeshifting Creative | They/Them <img align="left" 
 <br>
 <h3 align="left">🛠 Language and Tools</h3>
 <br>
